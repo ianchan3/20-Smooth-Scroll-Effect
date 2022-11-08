@@ -22,6 +22,8 @@ html {
 
 body {
   font-family: "Open Sans", sans-serif;
+  background-color: lightgray;
+
 }
 
 p {
@@ -78,7 +80,7 @@ section {
 }
 
 .box {
-  border: 1.5px solid #ccc;
+  border: 1.5px solid black;
   padding: 2rem
 }
 
