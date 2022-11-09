@@ -1,4 +1,4 @@
-const links = document.querySelectorAll("nav-list li a");
+const links = document.querySelectorAll(".nav-list li a");
 
 for (link of links) {
   link.addEventListener("click", smoothScroll)
